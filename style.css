@@ -1,0 +1,247 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+#FirstHeading {
+    color: rgb(255, 255, 255);
+    font-size: 100px;
+    padding-top: 70px;
+    border: none;
+    margin: 0px;
+    margin-bottom: 30px;
+}
+
+#SecondHeading {
+    margin-bottom: 40px;
+    color: aliceblue;
+
+
+}
+
+.button1 {
+    text-decoration: none;
+    background-color: rgb(175, 38, 38);
+    padding: 15px 50px;
+    color: aliceblue;
+    font-size: 25px;
+    border-radius: 5px;
+
+
+}
+
+.for-bg-img {
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    height: 700px;
+    overflow: hidden;
+    background-blend-mode: multiply;
+}
+
+#Donate-today {
+    font-size: 70px;
+    margin-top: 80px;
+    padding-top: 50px;
+}
+
+.donate-amount h1 {
+    font-size: 30px;
+    text-align: center;
+    height: 120px;
+    width: 160px;
+    padding-top: 40%;
+    border-radius: 5%;
+    margin: 20px 20px;
+    background-color: rgb(242, 244, 247);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
+
+button {
+    border: 0px;
+    margin: 10px;
+}
+
+.donate-amount {
+    display: flex;
+    margin: 50px 19.5%;
+}
+
+#second-donate-amount {
+    border: 20px;
+    border-color: rgb(199, 72, 72);
+    background-color: rgb(245, 159, 159);
+}
+
+#street-line {
+    height: 2px;
+    width: 900px;
+    background-color: silver;
+    margin: 0px 0px 50px 0px;
+}
+
+.button2 {
+    text-decoration: none;
+    background-color: rgb(175, 38, 38);
+    padding: 15px 50px;
+    color: aliceblue;
+    font-size: 25px;
+    border-radius: 5px;
+
+}
+
+#Donate-Plan {
+    font-size: 70px;
+    margin-top: 80px;
+    padding-top: 50px;
+}
+
+.donate-categori-main h1 {
+    font-size: 30px;
+
+}
+
+.donate-categori-main {
+    display: flex;
+
+
+
+}
+
+.donate-categori1 {
+    border: none;
+    border-radius: 5%;
+    height: 300px;
+    width: 25%;
+    background-color: rgb(247, 237, 237);
+    padding: 40px 20px;
+    margin: 20px 4% 20px 8.4%;
+
+}
+
+.donate-categori2 {
+    border: none;
+    border-radius: 5%;
+    height: 300px;
+    width: 25%;
+    background-color: rgb(238, 190, 190);
+    padding: 40px 20px;
+    margin-right: 4%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.donate-categori3 {
+    border: none;
+    border-radius: 5%;
+    height: 300px;
+    width: 25%;
+    background-color: rgb(247, 246, 200);
+    padding: 40px 20px;
+    margin: 20px 8.4% 20px 0%;
+
+}
+
+.button3 {
+    text-decoration: none;
+    background-color: rgb(175, 38, 38);
+    padding: 15px 50px;
+    color: aliceblue;
+    font-size: 25px;
+    border-radius: 5px;
+
+}
+
+.flexible-container {
+    display: flex;
+    margin-top: 40px;
+}
+
+.Hlaf-width {
+    width: 50%;
+    margin: 20px 80px;
+    padding: 20px;
+}
+
+.Hlaf-width h1 {
+    font-size: 70px;
+    padding-top: 0px;
+}
+
+.Hlaf-width p {
+    font-size: 25px;
+    padding-bottom: 20px;
+    padding-right: 50px;
+}
+
+.Hlaf-width img {
+    width: 80%;
+    height: 100%;
+    padding-top: 20px;
+}
+
+#Get-Updates {
+    font-size: 70px;
+    margin-top: 80px;
+    padding-top: 50px;
+}
+
+.button5 {
+    text-decoration: none;
+    background-color: rgb(175, 38, 38);
+    padding: 10px 50px;
+    color: aliceblue;
+    font-size: 25px;
+    border-radius: 5px;
+    margin: 75px 0px 75px 0px;
+
+}
+
+
+#email {
+    background-color: rgb(216, 210, 210);
+    padding: 10px 180px 10px 5px;
+    margin: 75px 0px 75px 250px;
+    color: rgb(79, 81, 82);
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.flex {
+    display: flex;
+}
+
+.last-section {
+    height: 200px;
+    width: 1000px;
+    background-color: blanchedalmond;
+    background-position: center;
+    margin: 100px 26%;
+}
+
+.footer {
+    margin-top: 200px;
+    height: 200px;
+    background-color: black;
+    background-size: cover;
+    background-position: bottom;
+    overflow: hidden;
+    background-blend-mode: multiply;
+}
+
+#fotter-font {
+    font-family: 'Lobster', cursive;
+    color: rgb(143, 18, 18);
+    font-size: 50px;
+    padding-top: 30px;
+}
+
+#Credit {
+    color: aliceblue;
+    padding-bottom: 20px;
+
+}
